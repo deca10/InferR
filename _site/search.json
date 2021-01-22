@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-01-22T17:51:19+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "InferR",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-01-22T17:51:20+02:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

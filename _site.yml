@@ -1,0 +1,18 @@
+name: "InferR"
+title: "InferR"
+description: |
+  Sports science - Biomechanics \ Passion about R & data
+output_dir: "_site"
+theme: 
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+collections:
+  posts:
+    categories: true
+    categories_metadata: true
+    authors_metadata: true
+output: distill::distill_article

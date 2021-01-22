@@ -1,0 +1,5 @@
+---
+title: "InferR"
+site: distill::distill_website
+listing: posts
+---
